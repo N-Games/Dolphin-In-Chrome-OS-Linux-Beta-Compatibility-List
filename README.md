@@ -1,6 +1,6 @@
 # Dolphin-In-Chrome-OS-Linux-Beta-Compatibility-List
 - Compatibility Game List [Stable]:
-- 007 Nightfire [DOL-GO7E-USA]: Some flickering issues when the game loads a new of the world (It runs very good)
+- 007 Nightfire [DOL-GO7E-USA]: Some flickering issues when the game loads a new part of the world (it runs very good)
 - Mario Kart Double Dash [DOL-GM4E-USA]: Has no issues (can be played at 60fps with some tweaks)
 - Super Mario Sunshine [DOL-GMSE-USA]: Has absolutely no issues (runs very slow)
 - Spongebob Battle For Bikini Bottom [DOL-GQPE-USA]: Some flickering issues like 007 Nightfire (runs good)
